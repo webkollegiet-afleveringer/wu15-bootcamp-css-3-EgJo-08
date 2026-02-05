@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 1200px;
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+.top-middle {
+    font-size: 48px;
+    font-weight: bold;
+}
