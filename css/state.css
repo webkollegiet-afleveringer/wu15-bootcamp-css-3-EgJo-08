@@ -1,0 +1,11 @@
+#links li a:hover {
+    text-decoration: underline;
+}
+
+#login-info a:hover {
+    text-decoration: underline;
+}
+
+#main__icons div {
+    cursor: pointer;
+}

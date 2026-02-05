@@ -1,0 +1,39 @@
+#links {
+    border-top: 1px solid #ddd;
+}
+
+
+#side {
+    color: gray;
+}
+
+
+#main__iconone {
+    background-color: #04106eb6;
+}
+
+#main__icontwo {
+    background-color: #3a4ee5b6;
+}
+
+#main__iconthree {
+    background-color: #5b5b5b;
+}
+
+
+#klik {
+    background-color: #e20f39;
+    color: white;
+}
+
+
+#seneste h2,
+#comments h2,
+#recommendations h2 {
+    color: #c40000;
+}
+
+
+footer {
+    background-color: #e6e6e6;
+}
